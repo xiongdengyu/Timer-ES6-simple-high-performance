@@ -2,7 +2,7 @@
 
 A implementation of timer.It offers pause,reverse,play,accelerate,jump methods
 
-## use(es6 only for now
+## use(es6 only for now)
 
 ```javascript
 import Timer from "pathToIndex/index.js";
