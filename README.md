@@ -31,3 +31,7 @@ timer.accelerate(rate);
 //reverse timer
 timer.reverse();
 ```
+
+## License
+
+under the MIT license
