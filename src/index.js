@@ -55,6 +55,7 @@ class Timer {
   jump(time) {
     this.realTimePoint = timeNow();
     this.output = this.imaginTimepoint = time;
+    this.isChanged = true;
   }
   pause() {
     this.imaginTimepoint = this.now();
